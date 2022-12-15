@@ -1,5 +1,7 @@
 # MIT6.824_2021_spring
 lab1,2,3,4. spring2021
+1
+2
 
 ## 中文博客地址
   -lab2 : https://blog.csdn.net/qq_40443651/article/details/116091524
